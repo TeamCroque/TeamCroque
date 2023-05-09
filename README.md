@@ -1,5 +1,36 @@
 # TeamCroque
 
+# Localisation
+![](CB.JPG)
+
+# Horaires
+
+**lundi**
+* 11:45–14:30
+* 17:30–22:00
+
+**mardi**
+* 11:45–14:30
+* 17:30–23:00
+
+**mercredi**
+* 11:45–14:30
+* 17:30–00:00
+
+**jeudi**
+* 11:45–14:30
+* 17:30–00:00
+
+**vendredi**
+* 11:45–14:30
+* 17:30–01:00
+
+**samedi**
+Fermé
+
+**dimanche**
+Fermé
+
 # A la carte
 ## A boire
 ### Bières
@@ -29,3 +60,10 @@
 * Croque dans le croque 9.50 €
 
 * Portions de frites 3.90 €
+
+
+# Les +
+* Les toilettes
+
+# Les -
+* Le lundi ferme trop tôt
