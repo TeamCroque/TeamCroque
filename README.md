@@ -64,6 +64,7 @@ Fermé
 
 # Les +
 * Les toilettes
+* Les fléchettes
 
 # Les -
 * Le lundi ferme trop tôt
